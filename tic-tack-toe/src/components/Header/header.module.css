@@ -1,0 +1,18 @@
+.header {
+    background: #0D0D0D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    position: relative;
+  }
+
+.heading {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 30px;
+}
+  
